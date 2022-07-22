@@ -4,7 +4,7 @@
     "symbol": "NB",
     "description": "Collection of 10 numbers on the blockchain. This is the number 9/10.",
     "seller_fee_basis_points": 500,
-    "image": "https://www.genians.com/wp-content/uploads/2018/01/Genians-logo-Usage-3.png",
+    "image": "https://raw.githubusercontent.com/usmangeniteam/demo/main/Genians-logo-Usage-3.png",
     "attributes": [
         {
             "trait_type": "Layer-1",
@@ -32,7 +32,7 @@
         ],
         "files": [
             {
-                "uri": "https://www.genians.com/wp-content/uploads/2018/01/Genians-logo-Usage-3.png",
+                "uri": "https://raw.githubusercontent.com/usmangeniteam/demo/main/Genians-logo-Usage-3.png",
                 "type": "image/png"
             }
         ]
